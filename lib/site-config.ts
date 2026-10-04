@@ -3,6 +3,7 @@ export const siteConfig = {
   name: 'SavannaCode',
   tagline: 'Based in Kenya. Building worldwide.',
   email: 'fawcetteugene@gmail.com',
+  blogUrl: 'https://medium.com/@fawcetteugene',
   phone: '+254 794 689 731',
   phoneHref: '+254794689731',
   whatsapp: '254794689731',
